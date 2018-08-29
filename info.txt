@@ -1,0 +1,10 @@
+https://shop.mango.com/fr
+
+threads, browse to proxy file, browse to source file, file save location
+and current code scanning
+showing in real time, how many valid codes did it find so far, progress and combo/min
+
+valid code case
+invalid case
+already used case
+and expired case
